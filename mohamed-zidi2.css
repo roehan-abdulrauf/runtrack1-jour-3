@@ -1,0 +1,80 @@
+html
+{
+    background-image: url(https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/5/c/a/5cac543f48_50151060_ocean-coraux.jpg);
+    color: rgb(0, 0, 0);
+}
+
+#header
+{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;        
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.nom:nth-child(1)
+{
+    text-align:center ;
+    text-decoration: none;
+    border: 2px ridge black;
+    border-radius: 50px;
+    
+    
+}
+   
+
+
+.element1
+{
+    height: 15%;
+    width: 15%;
+    float: right;
+    margin-right: 20%;
+}
+
+.element2
+{
+    height: 250px;
+    width: 15%;
+    margin-left: 20%;
+
+}
+
+.element3
+{
+    width: 15%;
+    margin-left: 20%;
+}
+
+.element4
+{
+    width: 15%;
+    
+    
+    position: absolute;
+    top: 110%;
+    left: 64%;
+    
+}
+.classe
+{display: flex;
+justify-content: space-around;
+}
+
+h1
+{
+    text-decoration: underline;
+}
+

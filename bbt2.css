@@ -1,0 +1,35 @@
+*
+{
+    background-color: skyblue;
+}
+header
+{
+    text-transform: capitalize;
+    font-size: x-large;
+    position: fixed;
+    left: 40%
+
+}
+
+
+#deux
+ {
+     float:right;
+     bottom: 80%;
+     
+ }
+
+ a:hover
+ {
+     text-decoration-style: wavy;
+     color: tan;
+     
+ }
+
+ a:active
+ {
+     font-style: oblique;
+ }
+
+
+

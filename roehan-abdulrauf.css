@@ -1,0 +1,22 @@
+*{background-color:antiquewhite}
+body{
+    width:100%; margin:auto;min-width:600px;max-width:1000px
+    }
+    img src{margin:auto}
+        h1{ font-style: oblique;}
+        h2 u{
+            color:rgb(15, 109, 216);
+            background-color:rgb(239, 245, 217);
+          }
+        p {
+            font-size: 1rem;
+            font-family: 'Times New Roman', Times, serif;
+            margin: 30px;
+            font-style: oblique;}
+table   {
+        table-layout:fixed;
+        width: 100%;
+        border-collapse:collapse;
+        border: 3px solid purple;
+        border:"1";
+        } 

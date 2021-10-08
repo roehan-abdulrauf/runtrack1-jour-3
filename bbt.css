@@ -1,0 +1,29 @@
+html
+{
+    background-image: url(https://www.goodcore.co.uk/blog/wp-content/uploads/2019/08/coding-vs-programming-2.jpg);
+   background-position: center;
+}
+
+
+.jour3
+
+{
+    text-align: center;
+    text-decoration: solid underline;
+    font-size: 200%;
+}
+
+a:hover
+{
+  text-decoration: none; 
+  color: red; 
+  font-style: italic;
+}
+
+a:active
+{
+    background-color: salmon;
+}
+
+
+
